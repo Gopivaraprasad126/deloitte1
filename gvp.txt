@@ -1,3 +1,9 @@
 hi this is gopivaraprasad
 iam working in deloitte
 
+Require a pull request before merging:
+Check Require pull request reviews before merging.
+Optionally, enable Require approvals and set the number of reviewers if needed.
+Restrict who can push to matching branches:
+Check Restrict who can push to matching branches.
+Select your username so only you can push or merge into
