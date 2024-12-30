@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "AshokKumar",
+      "age": 25,
+      "course": "Degree",
+      "city": "Khammam"
+    },
+    {
+      "id": "2",
+      "name": "pavanKumar",
+      "age": 34,
+      "course": "btech",
+      "city": "Vijayanagaram"
+    },
+]
+}
